@@ -40,7 +40,7 @@ const shaurya = {
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| 💌 **[twoofus](https://github.com/shauryaaojha/twoofus)** | A private universe. End-to-end encrypted real-time communication app — secure messaging, voice/video calls, E2EE photo sharing, push notifications, PWA installable on iOS & Android. | `Next.js` `Supabase` `TweetNaCl` | 🔴 |
+| 💌 **[twoofus](https://github.com/shauryaaojha/twoofus)** | A private universe. End-to-end encrypted real-time communication app — secure messaging, voice/video calls, E2EE photo sharing, push notifications, PWA installable on iOS & Android. | `Next.js` `Supabase` `TweetNaCl` | 🟢 |
 | 🎯 **[alphafour](https://github.com/shauryaaojha/alphafour)** | Connect Four — but make it intelligent. An AI-powered Connect Four game. Think before you drop. | `Next.js` `TypeScript` | 🟢 |
 | 💸 **splitkaro** | Full-featured expense-splitting app — groups, settlements, balances, the works. *Ab bill split karna easy ho gaya.* | `Next.js` `TypeScript` `MongoDB` | 🟢 |
 | 📚 **[dsa90days](https://github.com/shauryaaojha/dsa90days)** | 90 days. One problem at a time. Structured DSA tracker with auth, progress tracking, and a curated study plan. | `TypeScript` `React` | 🟢 |
